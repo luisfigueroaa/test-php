@@ -1,0 +1,7 @@
+{
+    "name": "luisfigueroaa/test-php",
+    "require": {},
+    "scripts": {
+        "test": "echo '¡Hola Mundo desde PHP Composer en GitHub Actions!'"
+    }
+}
