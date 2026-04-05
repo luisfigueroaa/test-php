@@ -1,7 +1,9 @@
 {
     "name": "luisfigueroaa/test-php",
+    "description": "Un proyecto basico para probar GitHub Actions con PHP",
+    "license": "MIT",
     "require": {},
     "scripts": {
-        "test": "echo 'Hola Mundo desde PHP Composer'"
+        "test": "echo '¡Hola Mundo desde PHP Composer en GitHub Actions!'"
     }
 }
